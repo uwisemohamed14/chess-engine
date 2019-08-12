@@ -6,3 +6,7 @@ CHESS ENGINE
 
 LIVE: https://a-chess-engine.herokuapp.com 
 
+Sources referred to build this project: 
+
+1. https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/
+2. https://byanofsky.com/2017/07/06/building-a-simple-chess-ai/
